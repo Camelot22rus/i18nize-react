@@ -1,7 +1,6 @@
 const parserPlugins = [
   'jsx',
   'classProperties', // '@babel/plugin-proposal-class-properties',
-  'flow',
   'syntax-typescript',
   '@babel/plugin-syntax-typescript',
   'typescript',
